@@ -1,0 +1,7 @@
+D:\Project-VS\bai2\bai2\bin\Debug\bai2.exe.config
+D:\Project-VS\bai2\bai2\bin\Debug\bai2.exe
+D:\Project-VS\bai2\bai2\bin\Debug\bai2.pdb
+D:\Project-VS\bai2\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
+D:\Project-VS\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\Project-VS\bai2\bai2\obj\Debug\bai2.exe
+D:\Project-VS\bai2\bai2\obj\Debug\bai2.pdb
